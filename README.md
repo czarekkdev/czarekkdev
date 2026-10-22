@@ -1,4 +1,4 @@
-<a href="https://czarekk.dev"><img src="assets/header.svg" alt="Czarek Judka (sys.krnl): Rust, cryptography and privacy-first software" width="100%"></a>
+<a href="https://czarekk.dev"><img src="assets/header.svg" alt="Cezary Judka (sys.krnl): Rust, cryptography and privacy-first software" width="100%"></a>
 
 <p align="center">
   <a href="https://czarekk.dev"><img src="https://img.shields.io/badge/web-czarekk.dev-d4af62?style=for-the-badge&labelColor=080706&color=d4af62&logo=googlechrome&logoColor=d4af62" alt="czarekk.dev"></a>
@@ -10,7 +10,7 @@
 
 ### `> whoami`
 
-I'm **Czarek**, 19, and I've been programming since I was twelve. I'm in my fifth year at an IT technical high school in Poland and a student at **42 Heilbronn**.
+I'm **Cezary**, 19, and I've been programming since I was twelve. I'm in my fifth year at an IT technical high school in Poland and a student at **42 Heilbronn**.
 
 I founded **[CesaSec](https://cesasec.com)** to build software that keeps your data private, protected by modern and post-quantum cryptography.
 
