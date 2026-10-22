@@ -1,4 +1,4 @@
-<a href="https://czarekk.dev"><img src="assets/header.svg" alt="Cezary Judka (sys.krnl): Rust, cryptography and privacy-first software" width="100%"></a>
+<a href="https://czarekk.dev"><img src="assets/banner.svg" alt="Cezary Judka (sys.krnl): Rust, cryptography and privacy-first software" width="100%"></a>
 
 <p align="center">
   <a href="https://czarekk.dev"><img src="https://img.shields.io/badge/web-czarekk.dev-d4af62?style=for-the-badge&labelColor=080706&color=d4af62&logo=googlechrome&logoColor=d4af62" alt="czarekk.dev"></a>
